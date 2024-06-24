@@ -4,8 +4,8 @@ Welcome to my page! I'm a second year Mathematics and Computer Science student a
 
 ### Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/html.svg" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/css.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/python.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/java.svg"/> </a>
 <a href="https://react.dev/" target="_blank"> <img align="left" alt="React" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/react.svg"/> </a>
