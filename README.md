@@ -1,6 +1,9 @@
 # Hello, I'm Wilbert Tham :wave:
 
-Welcome to my page! I'm a second year Mathematics and Computer Science student at University of Birmingham. I code bits and pieces. Happy exploring!
+### About me:
+- 💼 SWE Intern @[Syselek](https://www.syselek.com/) | Second year university student at the [University of Birmingham](https://www.birmingham.ac.uk/)
+- 💻 I code bits and pieces to improve my skills
+- 🏆 [SpotLabs](https://github.com/phoonicked/SpotLabs): Best 'Decentralised AI with Internet Computer' Product - (Encode AI Hackathon London)[https://www.encode.club/ai-hackathon] 2024 | [map.it!](https://github.com/phoonicked/ICHack2024): 'Best Newcomer Hack' and 'Most Innovative Use of Financial Data' - (ICHack)[https://ichack.org/] 2024
 
 ### Languages and Tools:
 
