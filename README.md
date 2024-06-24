@@ -19,6 +19,6 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoonicked&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoonicked&theme=slateorange&layout=compact)
 
 <br />
