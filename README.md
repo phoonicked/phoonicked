@@ -12,6 +12,8 @@ Welcome to my page! I'm a second year Mathematics and Computer Science student a
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/python.svg"/></a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/java.svg"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoonicked)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoonicked&layout=compact)
 
 <br />
