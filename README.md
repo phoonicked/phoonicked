@@ -13,6 +13,8 @@ Welcome to my page! I'm a second year Mathematics and Computer Science student a
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/phoonicked/phoonicked/blob/main/java.svg"/></a>
 
 <br />
+<br />
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoonicked&layout=compact)
 
