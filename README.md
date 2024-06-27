@@ -22,6 +22,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoonicked&theme=nord&layout=compact)
 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=phoonicked)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=phoonicked)](https://git.io/streak-stats)
 
 <br />
