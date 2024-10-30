@@ -3,7 +3,10 @@
 ### About me:
 - 💼 SWE Intern @[Syselek](https://www.syselek.com/) | Second year university student at the [University of Birmingham](https://www.birmingham.ac.uk/)
 - 💻 I enjoy coding to improve my skills and explore various frameworks and languages. Happy exploring!
-- 🏆 [SpotLabs](https://github.com/phoonicked/SpotLabs): Best 'Decentralised AI with Internet Computer' Product - [Encode AI Hackathon London](https://www.encode.club/ai-hackathon) 2024 | [map.it!](https://github.com/phoonicked/ICHack2024): 'Best Newcomer Hack' and 'Most Innovative Use of Financial Data' - [ICHack](https://ichack.org/) 2024
+- 🏆 [SpotLabs](https://github.com/phoonicked/SpotLabs): #1 'Decentralised AI with Internet Computer' Product - [Encode AI Hackathon London](https://www.encode.club/ai-hackathon) 2024 
+     [map.it!](https://github.com/phoonicked/ICHack2024): 'Best Newcomer Hack' and 'Most Innovative Use of Financial Data' - [ICHack](https://ichack.org/) 2024
+     [Sepia](https://github.com/EonSolutions/Sepia): #1 'Most Innovative Application using Flare’s Data Connector' - [Encode London Hackathon](https://www.encode.club/encodelondon-24) 2024
+  
 
 ### Languages and Tools:
 
