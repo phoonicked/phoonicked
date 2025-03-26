@@ -7,7 +7,7 @@
      [map.it!](https://github.com/phoonicked/ICHack2024): 'Best Newcomer Hack' and 'Most Innovative Use of Financial Data' - [ICHack](https://ichack.org/) 2024 <br>
      [Sepia](https://github.com/EonSolutions/Sepia): #1 'Most Innovative Application using Flare’s Data Connector' - [Encode London Hackathon](https://www.encode.club/encodelondon-24) 2024 <br>
      [Re:Style](https://github.com/EonSolutions/AstonHack10): Best Hack - [AstonHack10](https://astonhack.co.uk/) 2025 <br>
-     [Ocular](https://github.com/phoonicked/birminghack): #2 Best Hack using Voice AI and Runner-up Best Hack - [birminghack 1.0](https://birminghack.com/)
+     [Ocular](https://github.com/phoonicked/birminghack): #2 Best Hack using Voice AI and Runner-up Best Hack - [birminghack 1.0](https://birminghack.com/) 2025
   
   
 
