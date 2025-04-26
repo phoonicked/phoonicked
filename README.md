@@ -1,7 +1,7 @@
 # Hello, I'm Wilbert Tham :wave:
 
 ### About me:
-- 💼 Upcoming SWE @[Autodesk](https://www.autodesk.com/) <br> Former SWE Intern @[Syselek](https://www.syselek.com/) <br> Second year university student at the [University of Birmingham](https://www.birmingham.ac.uk/)
+- 💼 Incoming SWE @[Autodesk](https://www.autodesk.com/) <br> Former SWE Intern @[Syselek](https://www.syselek.com/) <br> Second year university student at the [University of Birmingham](https://www.birmingham.ac.uk/)
 - 💻 I enjoy coding to improve my skills and explore various frameworks and languages. Happy exploring!
 - 🏆 [SpotLabs](https://github.com/phoonicked/SpotLabs): #1 'Decentralised AI with Internet Computer' Product - [Encode AI Hackathon London](https://www.encode.club/ai-hackathon) 2024 <br>
      [map.it!](https://github.com/phoonicked/ICHack2024): 'Best Newcomer Hack' and 'Most Innovative Use of Financial Data' - [ICHack](https://ichack.org/) 2024 <br>
